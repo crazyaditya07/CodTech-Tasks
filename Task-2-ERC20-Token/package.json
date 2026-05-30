@@ -1,0 +1,16 @@
+{
+  "name": "task-2-erc20-token",
+  "version": "1.0.0",
+  "description": "A custom ERC20 token for blockchain learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}

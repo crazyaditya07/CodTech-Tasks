@@ -1,0 +1,13 @@
+{
+  "name": "task-1-token-transfer-system",
+  "version": "1.0.0",
+  "description": "A simple token transfer system for blockchain learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}

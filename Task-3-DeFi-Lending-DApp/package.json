@@ -1,0 +1,13 @@
+{
+  "name": "task-3-defi-lending-dapp",
+  "version": "1.0.0",
+  "description": "A basic DeFi lending and borrowing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
