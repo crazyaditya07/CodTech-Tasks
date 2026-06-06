@@ -1,6 +1,6 @@
-# CodeTech Tasks
+# CodTech Tasks
 
-This repository contains the completion of my 4 blockchain internship tasks for CodeTech. 
+This repository contains the completion of my 4 blockchain internship tasks for CodTech. 
 The goal of these tasks is to demonstrate fundamental concepts of blockchain development, including smart contracts, ERC20 tokens, decentralized finance (DeFi), and private blockchains.
 
 ## Project Structure
